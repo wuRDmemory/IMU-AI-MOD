@@ -1,0 +1,10 @@
+data/
+results/
+temp/
+temp1/
+download
+src/__pycache__
+.idea/
+data1/
+real_transform/
+custom_data/
